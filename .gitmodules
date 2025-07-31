@@ -1,0 +1,6 @@
+[submodule "jaspDescriptives"]
+	path = jaspDescriptives
+	url = https://github.com/RensDofferhoff/jaspDescriptives.git
+[submodule "jaspRegression"]
+	path = jaspRegression
+	url = https://github.com/RensDofferhoff/jaspRegression.git
